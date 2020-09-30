@@ -11,8 +11,8 @@ Drag and drop this source to your asset folder.
 
 # Required Configurations
 1. Add keystore file
-  Build Settings -> Player Settings -> Publishing Settings -> Add keystore file
-  Sign and get -> SHA256 keytool -list -v -keystore yourkeyfile.keystore
+  `Build Settings -> Player Settings -> Publishing Settings -> Add keystore file`
+  `Sign and get -> SHA256 keytool -list -v -keystore yourkeyfile.keystore`
 2. Add Agconnect-service.json file
 3. Configure AndroidManifest file
 
